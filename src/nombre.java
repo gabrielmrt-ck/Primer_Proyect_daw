@@ -2,7 +2,7 @@
 public class nombre {
 	public static void main(String[] args) {
 
-		System.out.println("Gabriel Martin Mendez");
+		System.out.println("Gabriel,225C6881");
 	}
 
 }
